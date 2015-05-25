@@ -1,9 +1,21 @@
-**** 安装方式
+#### 安装方式
 
-npm install ydfy -g
+```bash
+$ npm install ydfy -g
+```
 
 
-**** 许可
+#### 用法
+
+```bash
+ydfy 要翻译的内容
+```
+
+支持中英互译，支持中英文语句
+
+
+
+#### 许可
 
 MIT
 
