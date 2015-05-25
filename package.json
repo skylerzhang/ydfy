@@ -1,0 +1,17 @@
+{
+  "name": "ydfy",
+  "version": "0.0.1",
+  "description": "翻译神器",
+  "author": "skyler",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.8.1",
+    "request": "^2.55.0"
+  },
+  "bin": {
+    "ydfy": "ydfy.js"
+  }
+}
